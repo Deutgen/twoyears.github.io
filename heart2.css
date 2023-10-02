@@ -112,7 +112,7 @@ a{
 
 @keyframes present{
     from{
-        transform: translatex(-500px)
+        transform: translatex(-800px)
     }
 
     to{
