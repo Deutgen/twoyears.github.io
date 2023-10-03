@@ -127,8 +127,10 @@ h2{
 }
  
 hr{
-    background-color: red;
+    border: 1px solid red;
+    opacity: 40%;
 }
+
 .cd-container{
     min-height: 100vh;
     display: flex; 
